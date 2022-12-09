@@ -5,7 +5,7 @@
   <p>- 🔭 Atualmente trabalho com front-end e ferramentas no-coding </p>
   <p>- 🌱 Estou aprendendo Python com Django </p>
   <p>- 👯 Procuro colaborar com o back-end</p>
-  <p>- 🤔 E rocuro ajuda com Python :)</p>
+  <p>- 🤔 E procuro ajuda com Python :)</p>
   <p>- 📫 Entre em contato pelo meu linkedin: https://www.linkedin.com/in/esthersuriel/ </p>
   <p>- 😄 Pronomes: ela/dela </p>
   

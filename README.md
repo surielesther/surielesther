@@ -4,8 +4,7 @@
  <img align="right" alt="Rafa-pic" height="220" style="border-radius:15px;" src="https://i.picasion.com/pic92/2ca673e6827ed1e6487c63a17f5cec44.gif">
   <p>- 🔭 Atualmente trabalho com front-end e ferramentas no-coding </p>
   <p>- 🌱 Estou aprendendo Python com Django </p>
-  <p>- 👯 Procuro colaborar com o back-end</p>
-  <p>- 🤔 E procuro ajuda com Python :)</p>
+  <p>- 🤔 Estou aberta a trocar ideias sobre Python e back-end :)</p>
   <p>- 📫 Entre em contato pelo meu linkedin: https://www.linkedin.com/in/esthersuriel/ </p>
   <p>- 😄 Pronomes: ela/dela </p>
   

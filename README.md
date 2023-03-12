@@ -6,7 +6,6 @@
   <p>- 🌱 Estou aprendendo Python com Django </p>
   <p>- 🤔 Estou aberta a trocar ideias sobre Python e back-end :)</p>
   <p>- 📫 Entre em contato pelo meu linkedin: https://www.linkedin.com/in/esthersuriel/ </p>
-  <p>- 😄 Pronomes: ela/dela </p>
   
 
 <div align="center">
